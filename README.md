@@ -41,23 +41,22 @@ This repository contains the best-performing [pretrained ECG-Age estimation mode
 .
 ├── codes/
 │   └── matlab_scripts/
-│   │   └── test_script_extract_features.m           # Extract ECG features
+│   │   └── test_script_extract_features.m                    # Extract ECG features
 │   └── python_scripts/
-│       ├── 1_Merging_feature_csv_files.ipynb        # Merge ECG features and add demographic info (age and sex) to the feature set
-│       └── 2_Predict_ecg_age_and_evaluating.ipynb   # Predict ECG-age and evaluate the results
-│                            
+│       ├── merging_feature_csv_files.ipynb                   # Merge ECG features and add demographic info (age and sex) to the feature set
+│       └── predict_ecg_age_and_evaluating.ipynb              # Predict ECG-age and evaluate the results                         
 │
 ├── features/
-│   ├── leadwise_features/                           # Lead-wise feature CSV files (sample dataset)
-│   └── multilead_features/                          # Multi-lead feature CSV files (sample dataset)
+│   ├── leadwise_features/                                    # Lead-wise feature CSV files (sample dataset)
+│   └── multilead_features/                                   # Multi-lead feature CSV files (sample dataset)
 │
 ├── model_and_metadata/
-│   ├── Best_Model_CatBoost_ML.pkl                   # Best-performing pretrained ECG-age model
-│   ├── demographics.csv                             # Demographic features of the records (age and gender)
-│   ├── Inference_Mode_Pretrained_Model_Outputs.csv  # Model outputs
-│   └── requirements.txt                             # Python package requirements
+│   ├── best_model_catboost_ml_cinc2026.pkl                   # Best-performing pretrained ECG-age model
+│   └── inference_mode_pretrained_model_outputs_cinc2026.csv  # Model outputs
 │
-├── sample_data/                                     # Sample test data
+└── requirements.txt                                          # Python package requirements
+│
+├── sample_data/                                              # Sample test data and .csv file includes demographic features of the records (age and gender)
 │
 └── README.md
 ```
