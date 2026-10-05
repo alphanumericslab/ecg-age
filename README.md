@@ -126,7 +126,10 @@ addpath(genpath('path/to/OSET'));
 >   2. Electrocardiogram-Based Machine Learning Model for Predicting Adverse Cardiac Outcomes in Adult Congenital Heart Disease. Under review, May 2026.
 
 ## Corresponding authors:
-For questions about this project, please contact [Seyedeh Somayyeh Mousavi](https://scholar.google.com/citations?user=gk99WMsAAAAJ&hl=en) (bmemousavi@gmail.com) and [Reza Sameni](https://scholar.google.com/citations?user=MkoXtWwAAAAJ&hl=en) (rsameni@dbmi.emory.edu).
+For questions about this project, please contact 
+
+- [Seyedeh Somayyeh Mousavi](https://scholar.google.com/citations?user=gk99WMsAAAAJ&hl=en) (bmemousavi@gmail.com) 
+- [Reza Sameni](https://scholar.google.com/citations?user=MkoXtWwAAAAJ&hl=en) (rsameni@dbmi.emory.edu).
 
 ## Citation
 If you use this code in your research, please cite our paper:
