@@ -18,7 +18,7 @@
 
 - [Paper (PDF)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=ECG-Age+for+Cardiovascular+Outcome+Prediction%3A+Evaluation+in+an+Adult+Congenital+Heart+Disease+Cohort&btnG=)
 - [CODE15 extracted features]() (Will be published very soon)
-- [Pretrained ECG-Age estimation model](./model_and_metadata/): Best_Model_CatBoost_ML.pkl
+- [Pretrained ECG-Age estimation model](./model_and_metadata/): best_model_catboost_ml_cinc2026.pkl
 - [Poster](https://docs.google.com/presentation/d/1S39B-Ud01aSYuqqFkjkU77fmmsMqP9ROKIpyHA9B8yM/edit?usp=sharing)
 
 ## 📌 Overview
