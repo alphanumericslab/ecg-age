@@ -129,7 +129,7 @@ addpath(genpath('path/to/OSET'));
 For questions about this project, please contact 
 
 - [Seyedeh Somayyeh Mousavi](https://scholar.google.com/citations?user=gk99WMsAAAAJ&hl=en) (bmemousavi@gmail.com) 
-- [Reza Sameni](https://scholar.google.com/citations?user=MkoXtWwAAAAJ&hl=en) (rsameni@dbmi.emory.edu).
+- [Reza Sameni](https://scholar.google.com/citations?user=MkoXtWwAAAAJ&hl=en) (rsameni@dbmi.emory.edu)
 
 ## Citation
 If you use this code in your research, please cite our paper:
