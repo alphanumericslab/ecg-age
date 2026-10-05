@@ -1,4 +1,4 @@
 ## Dataset:
 
-The sample dataset was selected from the training and validation datasets of the 2021 challenge.
+We selected the sample dataset from the [PhysioNet/Computing in Cardiology Challenge 2021](https://physionet.org/content/challenge-2021/1.0.3/).
 
