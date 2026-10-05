@@ -1,6 +1,6 @@
 # ECG-Age for Cardiovascular Outcome Prediction: Evaluation in an Adult Congenital Heart Disease Cohort
 
-[![Github]](https://github.com/alphanumericslab/ecg-age/tree/main)
+[![GitHub](https://img.shields.io/badge/GitHub-ecg--age-181717?logo=github&logoColor=white)](https://github.com/alphanumericslab/ecg-age)
 [![DOI](https://img.shields.io/badge/DOI-10.xxxx%2Fxxxxx-blue)](https://doi.org/10.xxxx/xxxxx)
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2025b-orange?logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
