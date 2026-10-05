@@ -116,8 +116,8 @@ addpath(genpath('path/to/OSET'));
 1. **Prepare your dataset:** All ECG records must be in WFDB format and stored in a single folder (for example: [sample_data](./sample_data)). 
 2. **Consider an output folder:** Consider a folder to save the extracted .csv files (for example: [features](./features)).
 3. **Extract features:** Run the feature extraction script [`extract_features.m`](codes/matlab_scripts/test_script_extract_features.m) in MATLAB.
-4. **Merge feature files:** Run [`merge_features.py`](codes/python_scripts/1_Merging_feature_csv_files.ipynb) to combine all extracted feature CSV files into a single file and add sex information to it.
-5. **Predict ECG-Age and evaluate the results:** Run [`predict_and_evaluate_ECG_age_.py`](codes/python_scripts/2_Predict_ecg_age_and_evaluating.ipynb) to generate age predictions.
+4. **Merge feature files:** Run [`merge_features.py`](codes/python_scripts/merging_feature_csv_files.ipynb) to combine all extracted feature CSV files into a single file and add sex information to it.
+5. **Predict ECG-Age and evaluate the results:** Run [`predict_and_evaluate_ECG_age_.py`](codes/python_scripts/predict_ecg_age_and_evaluating.ipynb) to generate ECG-Age and investigate the results.
 
 > **Note**
 > - The ECG-Age model is **sex-aware**: sex is a required input to the model, so it must be provided for each record.
