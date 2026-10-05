@@ -1,4 +1,5 @@
-% An example script for extracting features from ECG signals
+% Paper: ECG-Age for Cardiovascular Outcome Prediction: Evaluation in an Adult Congenital Heart Disease Cohort
+% Script for extracting features from ECG signals
 % Authors: 
 % Seyedeh Somayyeh Mousavi
 % Reza Sameni
