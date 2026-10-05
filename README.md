@@ -120,10 +120,10 @@ addpath(genpath('path/to/OSET'));
 5. **Predict ECG-Age and evaluate the results:** Run [`predict_and_evaluate_ECG_age.py`](codes/python_scripts/predicting_ecg_age_and_evaluating.ipynb) to generate ECG-Age and investigate the results.
 
 > **Note**
-> - The ECG-Age model is **sex-aware**: sex is a required input to the model, so it must be provided for each record.
-> - For more information about the OSET-ECG feature extraction toolbox and its applications, please read our recent papers.
-> --  1- Estimating Blood Pressure from the Electrocardiogram: Findings of a Large-Scale Negative Results Study. Physiological Measurement, Nov 2025.
-> -- 2- Electrocardiogram-Based Machine Learning Model for Predicting Adverse Cardiac Outcomes in Adult Congenital Heart Disease. (Under Review), May 2026.
+> - The ECG-Age model is **sex-aware**: sex is a required input, so it must be provided for each record.
+> - For more information about the OSET-ECG feature extraction toolbox and its applications, please see our recent papers:
+>   1. Estimating Blood Pressure from the Electrocardiogram: Findings of a Large-Scale Negative Results Study. *Physiological Measurement*, Nov. 2025.
+>   2. Electrocardiogram-Based Machine Learning Model for Predicting Adverse Cardiac Outcomes in Adult Congenital Heart Disease. Under review, May 2026.
 
 ## Corresponding authors:
 For questions about this project, please contact [Seyedeh Somayyeh Mousavi](https://scholar.google.com/citations?user=gk99WMsAAAAJ&hl=en) (bmemousavi@gmail.com) and [Reza Sameni](https://scholar.google.com/citations?user=MkoXtWwAAAAJ&hl=en) (rsameni@dbmi.emory.edu).
