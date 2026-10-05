@@ -44,7 +44,7 @@ This repository contains the best-performing [pretrained ECG-Age estimation mode
 │   │   └── test_script_extract_features.m                    # Extract ECG features
 │   └── python_scripts/
 │       ├── merging_feature_csv_files.ipynb                   # Merge ECG features and add demographic info (age and sex) to the feature set
-│       └── predict_ecg_age_and_evaluating.ipynb              # Predict ECG-age and evaluate the results                         
+│       └── predicting_ecg_age_and_evaluating.ipynb              # Predict ECG-age and evaluate the results                         
 │
 ├── features/
 │   ├── leadwise_features/                                    # Lead-wise feature CSV files (sample dataset)
