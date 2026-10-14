@@ -12,15 +12,15 @@
 <sup>2</sup> Dept. of Epidemiology, Rollins School of Public Health, Emory University, Atlanta, GA, USA<br>
 <sup>3</sup> Dept. of Medicine, Emory University, Atlanta, GA, USA<br>
 <sup>4</sup> Dept. of Biomedical Engineering, Georgia Institute of Technology, Atlanta, GA, USA<br>
-<sup>5</sup> Dept. of Biomedical Engineering, Johns Hopkins University, Baltimore, MD, USA<br>
-<sup>6</sup> Dept. of Anesthesia & Critical Care Medicine, Johns Hopkins University, Baltimore, MD, USA
+<sup>5</sup> Dept. of Biomedical Engineering, Johns Hopkins University, Baltimore, MA, USA<br>
+<sup>6</sup> Dept. of Anesthesia & Critical Care Medicine, Johns Hopkins University, Baltimore, MA, USA
 
 ## 🔗 Links
 
 - [Paper (PDF)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C11&q=ECG-Age+for+Cardiovascular+Outcome+Prediction%3A+Evaluation+in+an+Adult+Congenital+Heart+Disease+Cohort&btnG=)
+- [Poster](https://docs.google.com/presentation/d/1S39B-Ud01aSYuqqFkjkU77fmmsMqP9ROKIpyHA9B8yM/edit?usp=sharing)
 - [CODE15 extracted features]() (Will be published very soon)
 - [Pretrained ECG-Age estimation model](./model_and_metadata/): best_model_catboost_ml_cinc2026.pkl
-- [Poster](https://docs.google.com/presentation/d/1S39B-Ud01aSYuqqFkjkU77fmmsMqP9ROKIpyHA9B8yM/edit?usp=sharing)
 
 ## 📌 Overview
 ECG-Age has become popular because AI models can look at an ECG and predict an apparent age (how healthy or sick a subject's heart is). Differences between ECG-Age and chronological age have been linked to cardiovascular risk, but there is an important interpretability question: is ECG-Age really a physiological biomarker, or is it a convenient summary of age-related ECG characteristics, or simply a regression to age?
