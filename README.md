@@ -12,8 +12,8 @@
 <sup>2</sup> Dept. of Epidemiology, Rollins School of Public Health, Emory University, Atlanta, GA, USA<br>
 <sup>3</sup> Dept. of Medicine, Emory University, Atlanta, GA, USA<br>
 <sup>4</sup> Dept. of Biomedical Engineering, Georgia Institute of Technology, Atlanta, GA, USA<br>
-<sup>5</sup> Dept. of Biomedical Engineering, Johns Hopkins University, Baltimore, MA, USA<br>
-<sup>6</sup> Dept. of Anesthesia & Critical Care Medicine, Johns Hopkins University, Baltimore, MA, USA
+<sup>5</sup> Dept. of Biomedical Engineering, Johns Hopkins University, Baltimore, MD, USA<br>
+<sup>6</sup> Dept. of Anesthesia & Critical Care Medicine, Johns Hopkins University, Baltimore, MD, USA
 
 ## 🔗 Links
 
